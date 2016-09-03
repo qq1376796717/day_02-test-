@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"123");
     NSLog(@"你好吗");
+    NSLog(@"约束项目提交成功");
 }
 
 - (void)didReceiveMemoryWarning {
